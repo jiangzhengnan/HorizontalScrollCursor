@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalScrollCursor">
+        <attr name="space" format="integer"/>
+        <attr name="cursorcolor" format="color"/>
+    </declare-styleable>
+</resources>
